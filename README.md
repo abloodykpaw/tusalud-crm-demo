@@ -3,7 +3,7 @@
 CRM operativo de ejemplo (roles, leads, reportes, tareas semanales, pagos).  
 **Datos 100 % ficticios.** No contiene información de clientes reales.
 
-Live: _(se publica en Vercel tras el push)_
+Live: https://abloodykpaw.github.io/tusalud-crm-demo/
 
 ## Probar en 30 segundos
 
