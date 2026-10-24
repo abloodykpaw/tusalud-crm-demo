@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 603 646" fill="none" role="img" aria-label="TuSalud Ensurance Agency">
+  <path fill="#405068" fill-rule="evenodd" d="M154,0L154,105L249,105L250,208L285,220L285,71L190,71L189,37L411,37L410,71L315,71L315,225L411,259L410,318L299,384L189,317L189,272L154,260L154,338L300,425L445,338L445,234L349,200L350,105L445,105L445,0Z"/>
+  <path fill="#405068" fill-rule="evenodd" d="M250,281L250,328L285,349L285,292Z"/>
+  <path fill="#38b8b0" d="M155,153L156,232L313,286L315,288L315,348L349,327L348,263L191,209L188,206L189,172L202,162L232,162L232,128L192,128Z"/>
+  <path fill="#38b8b0" d="M368,128L368,162L397,162L411,172L411,196L445,208L445,154L407,128Z"/>
+  <text x="301.5" y="526" text-anchor="middle" font-family="Montserrat, system-ui, sans-serif" font-weight="800" font-size="80" letter-spacing="0.04em">
+    <tspan fill="#ffffff">TU</tspan><tspan fill="#38b8b0">SALU</tspan><tspan fill="#ffffff">D</tspan>
+  </text>
+  <text x="301.5" y="594" text-anchor="middle" fill="#ffffff" font-family="Montserrat, system-ui, sans-serif" font-weight="500" font-size="17" letter-spacing="0.38em">ENSURANCE AGENCY</text>
+  <rect fill="#38b8b0" x="168" y="636" width="267" height="5" rx="0.5"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 96" fill="none" role="img" aria-label="TuSalud Ensurance Agency">
+  <defs>
+    <linearGradient id="tsIconDark" x1="8" y1="8" x2="80" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14b8a6"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+  </defs>
+  <!-- Mark -->
+  <rect x="4" y="10" width="76" height="76" rx="20" fill="url(#tsIconDark)"/>
+  <path d="M42 28v40M26 44h32M26 52h32" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <path d="M42 42.5c-1.7-2.1-4.9-2.1-6.4.2-1.5 2.3-.6 5.1 2.1 6.8L42 54.5l4.3-4.9c2.7-1.7 3.6-4.5 2.1-6.8-1.5-2.3-4.7-2.3-6.4-.3z" fill="#fff"/>
+  <!-- Wordmark -->
+  <text x="98" y="52" fill="#f8fafc" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="42" font-weight="800" letter-spacing="-1.2">TuSalud</text>
+  <text x="100" y="76" fill="#94a3b8" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="13" font-weight="600" letter-spacing="3.2">ENSURANCE AGENCY</text>
+</svg>

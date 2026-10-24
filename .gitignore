@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+dist-ssr/
+*.local
+tsconfig.tsbuildinfo
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# Cursor / local
+.cursor/
+
+# Vercel / Supabase local
+.vercel
+supabase/.temp/
+
+# Demo media (large files)
+preview/demo-video/
+preview/*.mp4
+preview/*.webm
+
+.env*
+
+# Copias de seguridad de datos (scripts)
+backups/

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="153 0 293 425" fill="none">
+  <path class="logo-slate" fill="#000000" fill-rule="evenodd" d="M154,0L154,105L249,105L250,208L285,220L285,71L190,71L189,37L411,37L410,71L315,71L315,225L411,259L410,318L299,384L189,317L189,272L154,260L154,338L300,425L445,338L445,234L349,200L350,105L445,105L445,0Z"/>
+  <path class="logo-slate" fill="#000000" fill-rule="evenodd" d="M250,281L250,328L285,349L285,292Z"/>
+  <path fill="#38b8b0" fill-rule="evenodd" d="M155,153L156,232L313,286L315,288L315,348L349,327L348,263L191,209L188,206L189,172L202,162L232,162L232,128L192,128Z"/>
+  <path fill="#38b8b0" fill-rule="evenodd" d="M368,128L368,162L397,162L411,172L411,196L445,208L445,154L407,128Z"/>
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .logo-slate { fill: #ffffff !important; }
+    }
+  </style>
+</svg>
